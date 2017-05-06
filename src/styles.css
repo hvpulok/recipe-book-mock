@@ -1,1 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+    background-color: #446e9b;
+}
+.main-container{
+    background-color:white;
+    box-shadow: 5px 5px 65px 10px rgba(0, 0, 0, 0.3);
+}
+
+.border-10{
+    border-radius:10px;
+}
+.border-5{
+    border-radius:5px;
+}
